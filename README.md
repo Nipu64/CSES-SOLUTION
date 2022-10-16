@@ -1,2 +1,3 @@
 # CSES-SOLUTION
 INTRODUCTORY PROBLEM
+   Weird Algorithm
